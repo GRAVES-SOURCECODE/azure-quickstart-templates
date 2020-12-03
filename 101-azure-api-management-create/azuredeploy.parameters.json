@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "publisherEmail": {
-      "value": "email@example.com"
+      "value": "christopher.graves@arvato-scs.com"
     },
     "publisherName": {
       "value": "GEN-UNIQUE"
